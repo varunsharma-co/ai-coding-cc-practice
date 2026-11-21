@@ -1,0 +1,82 @@
+{
+  "conversations": {
+    "5490dfc1-f99d-4ba5-ab4b-f7d0310e7893": {
+      "summary": {
+        "ID": "5490dfc1-f99d-4ba5-ab4b-f7d0310e7893",
+        "Title": "Casual Conversation Starter",
+        "Preview": "hi how are you bro",
+        "NumSteps": 2,
+        "Loaded": true,
+        "UpdatedAt": "2026-11-17T13:41:33.949326Z",
+        "WorkspaceURIs": [
+          "file:///Users/varun/Desktop/MProjects/Python/Misc/Practice/Matt-Pocock-Coding-Practice/ai-coding-crash-course"
+        ],
+        "AppDataDir": "antigravity-cli",
+        "ProjectID": "default-cli-project",
+        "AgentName": "",
+        "GroupID": "",
+        "Internal": false,
+        "Cloud": false,
+        "CloudProject": {
+          "ID": "",
+          "Name": ""
+        },
+        "PermissionPreset": 0
+      },
+      "is_internal": false,
+      "last_modified_time": "2026-11-17T19:12:18.57919145+05:30"
+    },
+    "a76c327d-2a4e-4fac-b973-505f2cdd4abb": {
+      "summary": {
+        "ID": "a76c327d-2a4e-4fac-b973-505f2cdd4abb",
+        "Title": "Casual Greeting And Inquiry",
+        "Preview": "hi how aer you",
+        "NumSteps": 2,
+        "Loaded": true,
+        "UpdatedAt": "2026-11-17T13:42:31.847926Z",
+        "WorkspaceURIs": [
+          "file:///Users/varun/Desktop/MProjects/Python/Misc/Practice/Matt-Pocock-Coding-Practice/ai-coding-crash-course"
+        ],
+        "AppDataDir": "antigravity-cli",
+        "ProjectID": "default-cli-project",
+        "AgentName": "",
+        "GroupID": "",
+        "Internal": false,
+        "Cloud": false,
+        "CloudProject": {
+          "ID": "",
+          "Name": ""
+        },
+        "PermissionPreset": 0
+      },
+      "is_internal": false,
+      "last_modified_time": "2026-11-17T19:13:04.968170317+05:30"
+    },
+    "aab645ec-1242-4582-b00a-f3e67ada01f3": {
+      "summary": {
+        "ID": "aab645ec-1242-4582-b00a-f3e67ada01f3",
+        "Title": "Initial Conversation Greeting",
+        "Preview": "Hi",
+        "NumSteps": 2,
+        "Loaded": true,
+        "UpdatedAt": "2026-11-12T11:08:20.943477Z",
+        "WorkspaceURIs": [
+          "file:///Users/varun/Desktop/MProjects/Python/Misc/Practice/Matt-Pocock-Coding-Practice/ai-coding-crash-course"
+        ],
+        "AppDataDir": "antigravity-cli",
+        "ProjectID": "default-cli-project",
+        "AgentName": "",
+        "GroupID": "",
+        "Internal": false,
+        "Cloud": false,
+        "CloudProject": {
+          "ID": "",
+          "Name": ""
+        },
+        "PermissionPreset": 0
+      },
+      "is_internal": false,
+      "last_modified_time": "2026-11-12T16:38:53.330938191+05:30"
+    }
+  }
+}

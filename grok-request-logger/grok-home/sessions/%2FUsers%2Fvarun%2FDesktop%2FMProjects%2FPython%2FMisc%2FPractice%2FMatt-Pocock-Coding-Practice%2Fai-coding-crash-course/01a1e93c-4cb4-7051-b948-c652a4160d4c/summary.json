@@ -1,0 +1,31 @@
+{
+  "info": {
+    "id": "01a1e93c-4cb4-7051-b948-c652a4160d4c",
+    "cwd": "/Users/varun/Desktop/MProjects/Python/Misc/Practice/Matt-Pocock-Coding-Practice/ai-coding-crash-course"
+  },
+  "agent_id": "ag1.ff0c3400cf5a40a6a81d6e7e40d56b93",
+  "attempt_id": "at1.d4aa43414bf1404cbf0b296ac37f0f46",
+  "session_summary": "Casual Greeting and Status Inquiry",
+  "created_at": "2026-11-17T11:20:05.565753Z",
+  "updated_at": "2026-11-17T11:20:21.325900Z",
+  "num_messages": 3,
+  "num_chat_messages": 6,
+  "current_model_id": "grok-4.7",
+  "next_trace_turn": 1,
+  "chat_format_version": 1,
+  "git_root_dir": "/Users/varun/Desktop/MProjects/Python/Misc/Practice/Matt-Pocock-Coding-Practice/ai-coding-crash-course/",
+  "git_remotes": [
+    "https://github.com/ai-hero-dev/ai-coding-crash-course.git"
+  ],
+  "head_commit": "848a9cfd32f5a2b21766cdc93b5a0bea0b973586",
+  "head_branch": "dev",
+  "request_id": "81b67cbd-aff7-48ba-8ca7-db6488d83d09",
+  "grok_home": "/Users/varun/Desktop/MProjects/Python/Misc/Practice/Matt-Pocock-Coding-Practice/ai-coding-crash-course/grok-request-logger/grok-home",
+  "last_active_at": "2026-11-17T11:20:18.969639Z",
+  "generated_title": "Casual Greeting and Status Inquiry",
+  "agent_name": "grok-build-plan",
+  "sandbox_profile": "off",
+  "reasoning_effort": "high",
+  "last_turn_summary": "Doing well; ready for whatever’s next",
+  "last_turn_summary_prompt_id": "81b67cbd-aff7-48ba-8ca7-db6488d83d09"
+}

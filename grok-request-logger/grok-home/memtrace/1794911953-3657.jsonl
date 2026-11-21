@@ -1,0 +1,3 @@
+{"ts_ms":1794911978315,"kind":"purge","footprint_bytes":61834344,"rss_bytes":148340736,"threads":64,"alloc":{"allocated":42487592,"active":72302592,"resident":79872000,"mapped":160382976,"retained":87605248,"metadata":10404776},"reason":"turn-end","hook_installed":true,"gauge_before_bytes":78185576,"purge_us":1579}
+{"ts_ms":1794911983149,"kind":"start","pid":3657,"version":"1.0.87"}
+{"ts_ms":1794911983150,"kind":"sample","footprint_bytes":62538856,"rss_bytes":149389312,"threads":64,"alloc":{"allocated":42406080,"active":72957952,"resident":80986112,"mapped":161464320,"retained":86523904,"metadata":10410152}}

@@ -1,0 +1,16 @@
+{"ts":"2026-11-12T12:18:32.321Z","type":"turn_started","session_id":"01a1cfb1-d1d7-7f51-8a08-c190bd532297","turn_number":0,"model_id":"grok-4.7","yolo_mode":false,"conversation_message_count":3,"session_relationship":"primary","schema_version":"1.0"}
+{"ts":"2026-11-12T12:18:32.390Z","type":"loop_started","loop_index":0}
+{"ts":"2026-11-12T12:18:32.414Z","type":"phase_changed","phase":"waiting_for_model"}
+{"ts":"2026-11-12T12:18:35.060Z","type":"first_token"}
+{"ts":"2026-11-12T12:18:35.060Z","type":"phase_changed","phase":"streaming_text"}
+{"ts":"2026-11-12T12:18:35.060Z","type":"phase_changed","phase":"streaming_text"}
+{"ts":"2026-11-12T12:18:35.216Z","type":"phase_changed","phase":"streaming_text"}
+{"ts":"2026-11-12T12:18:35.216Z","type":"phase_changed","phase":"streaming_text"}
+{"ts":"2026-11-12T12:18:35.216Z","type":"phase_changed","phase":"streaming_text"}
+{"ts":"2026-11-12T12:18:35.216Z","type":"phase_changed","phase":"streaming_text"}
+{"ts":"2026-11-12T12:18:35.217Z","type":"phase_changed","phase":"streaming_text"}
+{"ts":"2026-11-12T12:18:35.217Z","type":"phase_changed","phase":"streaming_text"}
+{"ts":"2026-11-12T12:18:35.217Z","type":"phase_changed","phase":"streaming_text"}
+{"ts":"2026-11-12T12:18:35.217Z","type":"phase_changed","phase":"streaming_text"}
+{"ts":"2026-11-12T12:18:35.217Z","type":"phase_changed","phase":"streaming_text"}
+{"ts":"2026-11-12T12:18:35.303Z","type":"turn_ended","outcome":"completed"}

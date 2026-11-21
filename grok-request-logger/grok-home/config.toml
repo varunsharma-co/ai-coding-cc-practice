@@ -1,0 +1,76 @@
+[endpoints]
+cli_chat_proxy_base_url = "http://127.0.0.1:8787/v1"
+
+[marketplace]
+default_skills_installs_purged = true
+
+[ui]
+max_thoughts_width = 120
+yolo = false
+compact_mode = false
+
+[consent.answers.enterprise-tos-2026-08]
+version = 1
+account = "hsharma@teachx.ai"
+acked = true
+
+[features]
+# Disables image_gen and image_edit
+image_gen = false
+# Disables image_to_video and reference_to_video
+video_gen = false
+# Disables send_feedback tool and feedback drafts
+feedback = false
+send_feedback_tool = false
+# Disables ask_user_question tool
+ask_user_question = false
+# Disables loading built-in bundled skills from the bundle
+subagent_bundle = false
+
+[goal]
+enabled = false
+
+# 3. Disable Workflow Engine & workflow tool
+[workflows]
+enabled = false
+# 4. Disable Memory Scaffolding (drops <memory> and <memory-context>)
+[memory]
+enabled = false
+[memory_v2]
+enabled = false
+# 5. Disable All Built-in Skills
+[skills]
+disabled = [
+  "build-with-ai",
+  "create-skill",
+  "create-workflow",
+  "design",
+  "docx",
+  "execute-plan",
+  "game-assets",
+  "imagine",
+  "learn",
+  "long-running-background-tasks",
+  "pdf",
+  "pptx",
+  "resume-claude",
+  "resume-codex",
+  "resume-cursor",
+  "review",
+  "skill-design-principles",
+  "statusline",
+  "threejs-frame-conventions"
+]
+# 6. Disable Third-Party Compatibility Scanning (Cursor & Claude)
+[compat.cursor]
+skills = false
+rules = false
+agents = false
+mcps = false
+hooks = false
+[compat.claude]
+skills = false
+rules = false
+agents = false
+mcps = false
+hooks = false

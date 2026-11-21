@@ -1,0 +1,1 @@
+{"signed_payload":"{\"typ\":\"grok.managed_identity.v1\",\"principal\":\"218fef54-dbde-4b99-a2d1-5ed8225ccee0\",\"fail_closed\":false,\"expires_at\":1795000805,\"key_id\":\"v1\"}","signature":"1NXN9xJ1A6YH76GzcF+U5GYez3z8SGiqzcm3DIeWTcyeN0+/L/s+D2xTHp/+A6Yx6iIJ4HtFE2mV5sGzSlFhDw==","key_id":"v1"}

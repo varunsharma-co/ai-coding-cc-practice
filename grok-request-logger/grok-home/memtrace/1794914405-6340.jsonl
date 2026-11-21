@@ -1,0 +1,1 @@
+{"ts_ms":1794914418961,"kind":"purge","footprint_bytes":63603768,"rss_bytes":149716992,"threads":64,"alloc":{"allocated":46800856,"active":78643200,"resident":86163456,"mapped":166723584,"retained":72876032,"metadata":10413864},"reason":"turn-end","hook_installed":true,"gauge_before_bytes":67011640,"purge_us":797}

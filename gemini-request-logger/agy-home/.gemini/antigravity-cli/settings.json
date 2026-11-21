@@ -1,0 +1,13 @@
+{
+  "colorScheme": "dark",
+  "model": "Gemini 3.8 Flash (Low)",
+  "modelProvider": "gemini",
+  "statusLine": {
+    "type": "",
+    "command": "",
+    "enabled": true
+  },
+  "trustedWorkspaces": [
+    "/Users/varun/Desktop/MProjects/Python/Misc/Practice/Matt-Pocock-Coding-Practice/ai-coding-crash-course"
+  ]
+}

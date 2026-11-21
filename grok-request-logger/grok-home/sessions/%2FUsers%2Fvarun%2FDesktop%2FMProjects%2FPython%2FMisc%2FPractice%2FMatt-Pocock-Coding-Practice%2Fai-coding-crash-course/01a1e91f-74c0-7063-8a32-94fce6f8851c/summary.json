@@ -1,0 +1,29 @@
+{
+  "info": {
+    "id": "01a1e91f-74c0-7063-8a32-94fce6f8851c",
+    "cwd": "/Users/varun/Desktop/MProjects/Python/Misc/Practice/Matt-Pocock-Coding-Practice/ai-coding-crash-course"
+  },
+  "agent_id": "ag1.69b05fc78bcc49099ab9c0150fd5af4f",
+  "attempt_id": "at1.251524c43b464886ba31aed10ba5af00",
+  "session_summary": "Jansen User Greeting and Introduction",
+  "created_at": "2026-11-17T10:48:35.287025Z",
+  "updated_at": "2026-11-17T10:50:46.206446Z",
+  "num_messages": 21,
+  "num_chat_messages": 18,
+  "current_model_id": "grok-4.7",
+  "next_trace_turn": 1,
+  "chat_format_version": 1,
+  "git_root_dir": "/Users/varun/Desktop/MProjects/Python/Misc/Practice/Matt-Pocock-Coding-Practice/ai-coding-crash-course/",
+  "git_remotes": [
+    "https://github.com/ai-hero-dev/ai-coding-crash-course.git"
+  ],
+  "head_commit": "848a9cfd32f5a2b21766cdc93b5a0bea0b973586",
+  "head_branch": "dev",
+  "request_id": "cbe9bb47-02d8-4f5e-90eb-85f0c322a52e",
+  "grok_home": "/Users/varun/Desktop/MProjects/Python/Misc/Practice/Matt-Pocock-Coding-Practice/ai-coding-crash-course/grok-request-logger/grok-home",
+  "last_active_at": "2026-11-17T10:50:46.206446Z",
+  "generated_title": "Jansen User Greeting and Introduction",
+  "agent_name": "grok-build-plan",
+  "sandbox_profile": "off",
+  "reasoning_effort": "high"
+}

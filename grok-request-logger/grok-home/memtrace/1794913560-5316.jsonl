@@ -1,0 +1,5 @@
+{"ts_ms":1794913590708,"kind":"start","pid":5316,"version":"1.0.87"}
+{"ts_ms":1794913590711,"kind":"sample","footprint_bytes":64406584,"rss_bytes":147800064,"threads":65,"alloc":{"allocated":43141040,"active":76152832,"resident":91979776,"mapped":172539904,"retained":52903936,"metadata":10398120}}
+{"ts_ms":1794913620716,"kind":"sample","footprint_bytes":63669304,"rss_bytes":147161088,"threads":65,"alloc":{"allocated":43122928,"active":77791232,"resident":91602944,"mapped":172163072,"retained":53280768,"metadata":10401960}}
+{"ts_ms":1794913627187,"kind":"purge","footprint_bytes":63423544,"rss_bytes":149422080,"threads":65,"alloc":{"allocated":44608448,"active":79577088,"resident":87113728,"mapped":167657472,"retained":61980672,"metadata":10415016},"reason":"turn-end","hook_installed":true,"gauge_before_bytes":66307128,"purge_us":633}
+{"ts_ms":1794913650723,"kind":"sample","footprint_bytes":63816760,"rss_bytes":150028288,"threads":65,"alloc":{"allocated":43811952,"active":80068608,"resident":88195072,"mapped":168722432,"retained":60915712,"metadata":10420008}}

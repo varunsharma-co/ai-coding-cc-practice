@@ -1,0 +1,14 @@
+{
+  "name": "varun-request-logger",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "tsx proxy.ts",
+    "force": "tsx proxy.ts --force"
+  },
+  "dependencies": {
+    "@clack/prompts": "^1.7.0",
+    "tsx": "^4.19.0"
+  }
+}

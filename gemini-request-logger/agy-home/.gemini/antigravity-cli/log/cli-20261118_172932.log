@@ -1,0 +1,119 @@
+I1118 17:29:32.403070      66 server.go:2581] Starting language server process with pid 5257
+I1118 17:29:32.404165      66 workflow_python.go:21] run_workflow Python: interpreter "", embedded true
+I1118 17:29:32.405836      66 server.go:2640] Language server version: 1.5.10
+I1118 17:29:32.405843      66 server.go:1292] Language server will attempt to listen on host localhost
+I1118 17:29:32.407777      66 server.go:1307] Language server listening on random port at 49709 for HTTPS (gRPC)
+I1118 17:29:32.407988      66 server.go:1315] Language server listening on random port at 49710 for HTTP
+I1118 17:29:32.422296      81 store_client.go:714] summary store: starting background reconciliation (trigger=startup)
+I1118 17:29:32.424134      81 store_client.go:764] summary store: reconciliation complete, synced 3 records
+W1118 17:29:32.444946      66 defaults.go:717] failed to get cs path: cs path /usr/bin/cs invalid
+I1118 17:29:32.445596      66 manager.go:140] Creating trajectory store manager with proto store and SQLite store
+I1118 17:29:32.449318     169 manager.go:98] Migration [MIGRATION_ID_SANITY_CHECK_PROJECT_URIS] is enabled
+I1118 17:29:32.449473     169 manager.go:107] Migration [MIGRATION_ID_SANITY_CHECK_PROJECT_URIS] already has status MIGRATION_STATUS_COMPLETED, skipping
+I1118 17:29:32.449483     169 manager.go:98] Migration [MIGRATION_ID_PLUGIN_ENABLEMENT] is enabled
+I1118 17:29:32.449550     169 manager.go:107] Migration [MIGRATION_ID_PLUGIN_ENABLEMENT] already has status MIGRATION_STATUS_COMPLETED, skipping
+I1118 17:29:32.449557     169 manager.go:98] Migration [MIGRATION_ID_BUILTIN_SIDECARS_TO_PLUGINS] is enabled
+I1118 17:29:32.449614     169 manager.go:107] Migration [MIGRATION_ID_BUILTIN_SIDECARS_TO_PLUGINS] already has status MIGRATION_STATUS_COMPLETED, skipping
+I1118 17:29:32.449624     169 manager.go:95] Migration [MIGRATION_ID_LIN_BUILTIN_TO_MARKETPLACE] is disabled, skipping entirely
+I1118 17:29:32.449629     169 manager.go:95] Migration [MIGRATION_ID_ADOPT_BWG_INSTALLS] is disabled, skipping entirely
+I1118 17:29:32.449643     169 manager.go:95] Migration [MIGRATION_ID_GDRIVE_BUILTIN_PLUGIN] is disabled, skipping entirely
+I1118 17:29:32.449649     169 manager.go:95] Migration [MIGRATION_ID_SPLIT_SCIENCE_PLUGIN] is disabled, skipping entirely
+I1118 17:29:32.467819      66 server.go:3968] initialized server successfully in 63.876083ms
+I1118 17:29:32.468908      27 server.go:4740] Auth succeeded, refreshing features and managers
+I1118 17:29:32.468988      27 server.go:4774] [RemoteControl] Subscription callback triggered.
+I1118 17:29:32.469749      27 server.go:4777] [RemoteControl] RemoteControlEnabled value: false
+I1118 17:29:32.469761      27 server.go:5867] [RemoteControl] Session toggle is off, staying disconnected
+I1118 17:29:32.469769      27 server.go:5550] [RemoteControl] Resolved proxyServerURL: ""
+I1118 17:29:32.470036      93 reconcile_summaries.go:94] [Summaries] reconcile checked 3 conversations, restored 0, cached 3, skipped 0, dropped 0, cancelled false in 0ms (resident: 0 -> 0)
+I1118 17:29:32.470023      97 manager.go:98] Migration [MIGRATION_ID_SANITY_CHECK_PROJECT_URIS] is enabled
+I1118 17:29:32.470183      97 manager.go:107] Migration [MIGRATION_ID_SANITY_CHECK_PROJECT_URIS] already has status MIGRATION_STATUS_COMPLETED, skipping
+I1118 17:29:32.470191      97 manager.go:98] Migration [MIGRATION_ID_PLUGIN_ENABLEMENT] is enabled
+I1118 17:29:32.470249      97 manager.go:107] Migration [MIGRATION_ID_PLUGIN_ENABLEMENT] already has status MIGRATION_STATUS_COMPLETED, skipping
+I1118 17:29:32.470255      97 manager.go:98] Migration [MIGRATION_ID_BUILTIN_SIDECARS_TO_PLUGINS] is enabled
+I1118 17:29:32.470023      27 profiler.go:231] Continuous pprof profiling is disabled.
+I1118 17:29:32.470311      97 manager.go:107] Migration [MIGRATION_ID_BUILTIN_SIDECARS_TO_PLUGINS] already has status MIGRATION_STATUS_COMPLETED, skipping
+I1118 17:29:32.470317      97 manager.go:95] Migration [MIGRATION_ID_LIN_BUILTIN_TO_MARKETPLACE] is disabled, skipping entirely
+I1118 17:29:32.470322      97 manager.go:95] Migration [MIGRATION_ID_ADOPT_BWG_INSTALLS] is disabled, skipping entirely
+I1118 17:29:32.470342      97 manager.go:95] Migration [MIGRATION_ID_GDRIVE_BUILTIN_PLUGIN] is disabled, skipping entirely
+I1118 17:29:32.470347      97 manager.go:95] Migration [MIGRATION_ID_SPLIT_SCIENCE_PLUGIN] is disabled, skipping entirely
+I1118 17:29:32.470234       1 auto_updater.go:334] Spawned background update process with PID 5259
+I1118 17:29:32.470452       1 common.go:191] Launching CLI mode
+E1118 17:29:32.470615       1 launchsteps.go:95] Failed to resolve GeminiDir ".gemini": .gemini must be an absolute path: path is not absolute, falling back to default
+I1118 17:29:32.470655       1 common.go:212] CLI app data directory: /Users/varun/Desktop/MProjects/Python/Misc/Practice/Matt-Pocock-Coding-Practice/ai-coding-crash-course/gemini-request-logger/agy-home/.gemini/antigravity-cli
+I1118 17:29:32.470691       1 server.go:313] Creating CLI server backend: product=antigravity workspaceDirs=[/Users/varun/Desktop/MProjects/Python/Misc/Practice/Matt-Pocock-Coding-Practice/ai-coding-crash-course] appDataDir=/Users/varun/Desktop/MProjects/Python/Misc/Practice/Matt-Pocock-Coding-Practice/ai-coding-crash-course/gemini-request-logger/agy-home/.gemini/antigravity-cli languageServer=true codeAssist=true
+I1118 17:29:32.472998       1 server.go:2331] Backend project ID updated dynamically to: default-cli-project
+I1118 17:29:32.473156       1 manager.go:556] Initializing CLI store manager for workspace /Users/varun/Desktop/MProjects/Python/Misc/Practice/Matt-Pocock-Coding-Practice/ai-coding-crash-course
+E1118 17:29:32.473728     184 server.go:3319] Failed to read conversations directory /Users/varun/Desktop/MProjects/Python/Misc/Practice/Matt-Pocock-Coding-Practice/ai-coding-crash-course/gemini-request-logger/agy-home/.gemini/antigravity/conversations: open /Users/varun/Desktop/MProjects/Python/Misc/Practice/Matt-Pocock-Coding-Practice/ai-coding-crash-course/gemini-request-logger/agy-home/.gemini/antigravity/conversations: no such file or directory
+I1118 17:29:32.473777     184 server.go:3184] ListConversations: cache miss for 1 conversations, loading 1 in parallel, deferring 0
+I1118 17:29:32.475021       1 cli_setting_manager.go:98] CLI settings initialized: permissions=<nil>, toolPermission=request-review
+I1118 17:29:32.480183     184 server.go:3205] ListConversations returning 3 summaries
+I1118 17:29:32.480659       1 hooks_manager.go:54] loaded 0 named hooks from 0 hooks.json file(s)
+I1118 17:29:32.480700       1 manager.go:731] CLI store manager initialized successfully
+I1118 17:29:32.480710       1 common.go:346] CLI store manager created successfully
+I1118 17:29:32.480762       1 cli_setting_manager.go:228] ApplyProjectPermissionGrants: no grants for project "CLI Project", cleared project permissions
+I1118 17:29:32.480711     189 quota_manager.go:36] doRefreshQuota: skipped (not logged in)
+I1118 17:29:32.496267       1 terminal_info_manager.go:354] Terminal detection: TERM="xterm-ghostty" altScreen=true ssh=false osc8=true osc52=true appleTerminalSSH=false
+I1118 17:29:32.496619       1 common.go:549] Starting CLI program
+CLI ready for user input
+I1118 17:29:32.499577       1 analytics.go:249] CLI startup completed (took 100.440667ms, phases [main_entered=1ms ls_start=2ms ls_ready=68ms launch_cli=71ms backend_created=73ms project_resolved=73ms manager_created=81ms program_run=97ms tui_init_start=98ms tui_init_done=99ms])
+I1118 17:29:32.500087     292 gemini_extensions.go:29] Detecting Gemini extensions in /Users/varun/Desktop/MProjects/Python/Misc/Practice/Matt-Pocock-Coding-Practice/ai-coding-crash-course/gemini-request-logger/agy-home/.gemini/extensions
+I1118 17:29:32.500889     292 gemini_extensions.go:50] No extensions found
+I1118 17:29:32.501030     275 manager.go:1679] Reloading system slash commands and skills
+I1118 17:29:32.501081     275 manager.go:1635] Reloading system slash commands
+I1118 17:29:32.500928     300 auth.go:157] ChainedAuth: authenticated via gemini_api_key (effective: gemini_api_key)
+I1118 17:29:32.502081     300 server_oauth.go:221] applyAuthResult: email=, authMethod=gemini_api_key, quotaProject=
+I1118 17:29:32.502139     300 server_oauth.go:226] OAuth: authenticated successfully as 
+I1118 17:29:32.502203     298 hooks_manager.go:54] loaded 0 named hooks from 0 hooks.json file(s)
+W1118 17:29:32.502553     386 cache.go:189] Failed to refresh cache in background: admin controls not applicable
+I1118 17:29:32.502745     300 model_config_manager.go:375] Propagating selected model override to backend: label="Gemini 3.8 Flash (Low)"
+I1118 17:29:32.502799     189 quota_manager.go:36] doRefreshQuota: skipped (not logged in)
+I1118 17:29:32.502834     190 experiment_manager.go:66] Starting experiment refresh after login
+I1118 17:29:32.503073     388 model_config_manager.go:375] Propagating selected model override to backend: label="Gemini 3.8 Flash (Low)"
+I1118 17:29:32.503110     189 quota_manager.go:36] doRefreshQuota: skipped (not logged in)
+I1118 17:29:32.503689     190 server.go:5867] [RemoteControl] Session toggle is off, staying disconnected
+I1118 17:29:32.503727     190 server.go:5550] [RemoteControl] Resolved proxyServerURL: ""
+I1118 17:29:32.503733     190 experiment_manager.go:70] Experiments refreshed after login
+I1118 17:29:32.503762     190 experiment_manager.go:66] Starting experiment refresh after login
+I1118 17:29:32.504041     404 manager.go:1635] Reloading system slash commands
+I1118 17:29:32.504130     190 server.go:5867] [RemoteControl] Session toggle is off, staying disconnected
+I1118 17:29:32.504168     190 server.go:5550] [RemoteControl] Resolved proxyServerURL: ""
+I1118 17:29:32.504318     190 experiment_manager.go:70] Experiments refreshed after login
+I1118 17:29:32.504359     410 manager.go:1635] Reloading system slash commands
+I1118 17:29:32.504362     192 manager.go:1730] SetCycleMode called: auto
+I1118 17:29:32.504415     192 manager.go:1736] auto mode is unavailable, falling back to default
+I1118 17:29:32.518954     434 manager.go:1124] Full redraw completed (RerenderAll) for conversation  (epoch 0, items 1) in 1ms
+I1118 17:29:32.520690     275 manager.go:1644] Slash commands unchanged, skipping update
+I1118 17:29:32.520720     404 manager.go:1644] Slash commands unchanged, skipping update
+I1118 17:29:32.550731     412 manager.go:1124] Full redraw completed (RerenderAll) for conversation  (epoch 0, items 1) in 0s
+I1118 17:29:36.194336     669 manager.go:1124] Full redraw completed (RerenderAll) for conversation  (epoch 0, items 1) in 1ms
+I1118 17:29:42.789067     647 conversation_manager.go:695] Starting new conversation (agent=false)
+I1118 17:29:42.789527     647 server.go:1214] Creating new cascade trajectory (agentScript=false)
+I1118 17:29:42.789573     647 server.go:1240] Conversation using project ID: default-cli-project
+I1118 17:29:42.805685     647 server.go:1257] Created conversation 5be7d5dd-5e77-427b-b239-c1e5e537f096 (backend=BACKEND_TYPE_UNSPECIFIED)
+I1118 17:29:42.805944     647 server.go:3518] GetConversationDetail: found conversation 5be7d5dd-5e77-427b-b239-c1e5e537f096 (active=true)
+I1118 17:29:42.806832     647 server.go:3518] GetConversationDetail: found conversation 5be7d5dd-5e77-427b-b239-c1e5e537f096 (active=true)
+I1118 17:29:42.806849     647 conversation_manager.go:749] project: switching to conversation belonging to project ID: default-cli-project
+I1118 17:29:42.806985     647 server.go:2331] Backend project ID updated dynamically to: default-cli-project
+I1118 17:29:42.807000     647 cli_setting_manager.go:228] ApplyProjectPermissionGrants: no grants for project "CLI Project", cleared project permissions
+I1118 17:29:42.807021     647 conversation_manager.go:765] project: synced active project to "CLI Project" (id=default-cli-project) from conversation switch
+I1118 17:29:42.807036     647 conversation_manager.go:1082] Streaming conversation 5be7d5dd-5e77-427b-b239-c1e5e537f096
+I1118 17:29:42.807055     640 manager.go:1679] Reloading system slash commands and skills
+I1118 17:29:42.807093     640 manager.go:1635] Reloading system slash commands
+I1118 17:29:42.807169     647 server.go:3518] GetConversationDetail: found conversation 5be7d5dd-5e77-427b-b239-c1e5e537f096 (active=true)
+I1118 17:29:42.807599     647 server.go:1275] Starting conversation update stream for 5be7d5dd-5e77-427b-b239-c1e5e537f096
+I1118 17:29:42.808658     189 quota_manager.go:36] doRefreshQuota: skipped (not logged in)
+I1118 17:29:42.812926     640 manager.go:1644] Slash commands unchanged, skipping update
+I1118 17:29:46.288651     824 input_loop.go:104] HandleUserInput called with text: "hi how are you"
+I1118 17:29:46.290964     826 conversation_manager.go:884] Forwarding user message to conversation 5be7d5dd-5e77-427b-b239-c1e5e537f096 (items=1, media=0)
+I1118 17:29:46.291012     826 server.go:1850] Sending user message to conversation 5be7d5dd-5e77-427b-b239-c1e5e537f096 (items=1, media=0)
+I1118 17:29:46.294954     826 latency_breakdown.go:168] SEND_USER_CASCADE_MESSAGE_LATENCY latency breakdown: map[active_user_state_latency_ms:0 blocking:false cascade_id:5be7d5dd-5e77-427b-b239-c1e5e537f096 cascade_send_latency_ms:1 hydrate_slash_commands_latency_ms:0 load_trajectory_latency_ms:0 media_count:0 media_summaries_latency_ms:0 message_origin:AGENT_MESSAGE_ORIGIN_UNSPECIFIED resolve_agent_config_latency_ms:0 save_media_latency_ms:0 saved_media_count:0 status:OK total_latency_ms:2 trajectory_id:81de2ed1-ecfe-406c-b4dd-54a394a48177]
+I1118 17:29:46.325267     829 monitor_config_manager_external.go:53] externalMonitorConfigManager: initialized with embedded config (3 monitors)
+I1118 17:29:46.326845     829 monitoring.go:413] [Sonar] Resolved active tags: [jetski_mode_default policy_guardian sonar_skip_tags] (detected surface: "")
+I1118 17:29:46.327535     829 monitoring.go:413] [Sonar] Resolved active tags: [jetski_mode_default policy_guardian sonar_skip_tags] (detected surface: "")
+I1118 17:29:48.179473     189 quota_manager.go:36] doRefreshQuota: skipped (not logged in)
+I1118 17:29:55.892995       1 common.go:558] CLI program exited, shutting down
+I1118 17:29:55.893713       1 manager.go:942] CLI store manager shutting down
+I1118 17:29:55.895579       1 conversation_manager.go:1023] Stopping conversation stream
+I1118 17:29:55.895665     691 server.go:1338] Stream goroutine exited for 5be7d5dd-5e77-427b-b239-c1e5e537f096, sending completion signal
+I1118 17:29:55.898135     879 server.go:4445] Language server shutting down
+I1118 17:29:55.898182     879 server.go:4472] Waiting for migrations to complete to prevent partial migration state...
